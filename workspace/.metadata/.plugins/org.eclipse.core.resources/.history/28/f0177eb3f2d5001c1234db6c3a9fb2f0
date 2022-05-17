@@ -1,0 +1,9 @@
+package com.in28minutes.rest.webservices.restfulwebservices.user;
+
+public class User {
+	private Integer id;
+	
+	private String name;
+	
+	private Date birthday;
+}
